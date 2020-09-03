@@ -1,11 +1,11 @@
 # Personality-Detection
-Here is a brief description to what we did in our paper which is contains two main part. We are going to descrip each part in detail
+Here is a brief description to what we did in our paper which is contains two main parts. We are going to descrip each part in detail
 
 
 part one:
 We Found relationship between each group in first part of our project and each semantic group in second part of our project
 •	Use image-based social media platform: Flicker 
-•	Collect required information through the Flicker API. Descriptive statistics was shown in following table
+•	Collect required data through the Flicker API. Descriptive statistics was shown in following table
 •	We conducted an online survey where we asked participants to ﬁll in a personality questionnaire. 
 •	To analyze content of the images on Flicker , we used vgg net or cnn algorithm through ImagNet dataset
 •	CLUSTERING USERS BASE ON CNN- OBJ (similarity in content of posted images )
