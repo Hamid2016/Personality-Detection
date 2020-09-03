@@ -1,5 +1,5 @@
 # Personality-Detection
-Here is a brief description to what we did in our paper which is contains two main parts. We are going to descrip each part in detail
+Here is a brief description to what we did in our paper which contains two main parts. We are going to descrip each part in detail
 
 
 part one:
